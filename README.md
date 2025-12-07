@@ -45,7 +45,7 @@ const MySelf = {
 
 ### 🛠️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,gitlab,npm,notion,idea" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,gitlab,npm,idea" alt="Tools" />
 </div>
 
 ### 🎨 UI Libraries
