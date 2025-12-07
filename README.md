@@ -60,7 +60,13 @@ const MySelf = {
 ### 🧰 Tools & Shell
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash,powershell" />
-  
+</div>
+
+
+### 💻 Operating Systems
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,mint,arch" alt="OS" />
+  <img src="https://cdn.simpleicons.org/garudalinux" height="40" alt="Garuda Linux" />
 </div>
 
 ---
