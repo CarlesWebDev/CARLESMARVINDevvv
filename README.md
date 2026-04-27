@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align='center'>🎓 an ordinary student at State Vocational High School 4 Tangerang</h3>
+<h3 align='center'>ordinary people</h3>
 
 ## 🚀 About Me
 
