@@ -42,7 +42,6 @@ const MySelf = {
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
   <img src="https://skillicons.dev/icons?i=dart" alt="dart" />
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png" height="48" alt="Zustand" style="margin-left: 10px;" />
 </div>
 
 ### 🛠️ Tools & Technologies
