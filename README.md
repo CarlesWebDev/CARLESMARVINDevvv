@@ -28,7 +28,7 @@ const MySelf = {
 
 ### 💻 Backend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,mongodb,postman,docker,postgres,nodejs,express" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,mongodb,postman,docker,postgres,nodejs,express,nextjs" alt="Backend Skills" />
 </div>
 
 ### 🎨 Frontend Development
