@@ -26,22 +26,21 @@ const MySelf = {
 
 ---
 
+
 ### 💻 Backend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,mongodb,postman,docker,postgres,nodejs,express,nextjs" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,mongodb,postman,docker,postgres,nodejs,express,nextjs,py,spring,supabase" alt="Backend Skills" />
 </div>
 
 ### 🎨 Frontend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite," alt="Frontend Skills" />
-    <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="48" style="border-radius:12px; background-color: #1e1e2f;" alt="Livewire" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite" alt="Frontend Skills" />
+  <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="48" style="border-radius:12px; background-color: #1e1e2f;" alt="Livewire" />
 </div>
 
 ### 📱 Mobile Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="dart" />
+  <img src="https://skillicons.dev/icons?i=react,dart" alt="Mobile Skills" />
 </div>
 
 ### 🛠️ Tools & Technologies
@@ -49,26 +48,30 @@ const MySelf = {
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,gitlab,npm,idea" alt="Tools" />
 </div>
 
-### 🎨 UI Libraries
+### 🧩 UI Libraries
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" style="margin-right: 10px;" height="40" />
-   <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" height="40" alt="Shadcn UI" />
-  <img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" height="40" />
-   <img src="https://cdn.simpleicons.org/daisyui/000000/ffffff" height="40" alt="DaisyUI" />
-</p>
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" height="48" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" alt="Shadcn UI" height="48" />
+  <img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" height="48" />
+  <img src="https://cdn.simpleicons.org/daisyui/000000/ffffff" alt="DaisyUI" height="48" />
+</div>
+
+### ☁️ Hosting
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Hosting" />
 </div>
 
 ### 🧰 Tools & Shell
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=bash,powershell,neovim" alt="Shell Tools" />
 </div>
-
 
 ### 💻 Operating Systems
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,mint,arch" alt="OS" />
-  <img src="https://cdn.simpleicons.org/garudalinux" height="40" alt="Garuda Linux" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,mint,arch,ubuntu" alt="OS" />
+  <img src="https://cdn.simpleicons.org/garudalinux" alt="Garuda Linux" height="48" />
 </div>
+
 
 ---
 ## 🌐 Connect With Me
