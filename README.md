@@ -6,6 +6,10 @@
 
 <h3 align='center'>ordinary people</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlesWebDev&label=Profile%20Views&color=40A2E3&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ## 🚀 About Me
 
 ```php
