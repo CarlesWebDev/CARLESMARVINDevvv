@@ -93,7 +93,7 @@ const MySelf = {
   </a>
 </div>
 
-<hr>
+<br>
 
 
 
@@ -119,6 +119,15 @@ const MySelf = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CarlesWebDev&theme=tokyonight" alt="GitHub Trophies" />
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/CarlesWebDev?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CarlesWebDev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Leandro's github-readme-stats"/>
+  </a>
+  <img src="https://streak-stats.demolab.com?user=CarlesWebDev&theme=radical&hide_border=true" width="48%" alt="CarlesWebDev streak stats"/>
+</p>
 
 <br>
 
