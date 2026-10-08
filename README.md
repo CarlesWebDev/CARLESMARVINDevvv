@@ -6,6 +6,7 @@
 
 <h3 align='center'>ordinary people</h3>
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CarlesWebDev&label=Profile%20Views&color=40A2E3&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -96,11 +97,19 @@ const MySelf = {
 
 
 
+<p align="center">
+  <a href="https://github.com/CarlesWebDev?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CarlesWebDev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Leandro's github-readme-stats"/>
+  </a>
+  <img src="https://streak-stats.demolab.com?user=CarlesWebDev&theme=radical&hide_border=true" width="48%" alt="CarlesWebDev streak stats"/>
+</p>
 
-<div align="center">
+
+
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlesWebDev&show_icons=true&theme=neon&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlesWebDev&layout=compact&langs_count=8&theme=neon&hide_border=true"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=CarlesWebDev&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" />
