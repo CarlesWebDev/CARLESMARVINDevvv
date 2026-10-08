@@ -18,7 +18,7 @@ const MySelf = {
   name: "Charles Marvin",
   location: "Tangsel, Indonesia",
   role: "Junior Developer",
-  hobbies: "Learning frameworks and building things",
+  hobbies: "Learning frameworks and building things, Game, Turu, Reapet",
   funFact: "Coffee in, code out ☕⌨️"
 };
 ```
