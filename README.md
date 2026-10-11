@@ -122,28 +122,21 @@ const MySelf = {
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/CarlesWebDev?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CarlesWebDev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Leandro's github-readme-stats"/>
-  </a>
-  <img src="https://streak-stats.demolab.com?user=CarlesWebDev&theme=radical&hide_border=true" width="48%" alt="CarlesWebDev streak stats"/>
-</p>
-
-<br>
-
-📊 GitHub Analytics
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlesWebDev/CarlesWebDev/output/dist/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlesWebDev/CarlesWebdev/output/dist/pacman-contribution-graph.svg">
     <img alt="GitHub Contribution Pacman Animation" src="https://raw.githubusercontent.com/CarlesWebDev/CarlesWebDev/output/dist/pacman-contribution-graph-dark.svg">
   </picture>
-</div>
+</div> -->
 
-📈 Activity Graph
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlesWebDev&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
+</div> -->
+
+ <p align="center">
+  <img src="https://ghstats.dev/api/langs?username=CarlesWebDev&theme=radical&hide_border=true&layout=horizontal_list">
+  </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
