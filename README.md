@@ -105,20 +105,28 @@ const MySelf = {
 </p>
 
 
+<div align="center">
+  <picture>
+    <source srcset="pacman-contribution-graph-dark.svg">
+    <img alt="GitHub Contribution Pacman Animation" src="pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
+
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlesWebDev&show_icons=true&theme=neon&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlesWebDev&layout=compact&langs_count=8&theme=neon&hide_border=true"/>
 </div> -->
 
-<div align="center">
+ <div align="center">
   <img src="https://streak-stats.demolab.com/?user=CarlesWebDev&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+</div> 
 
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlesWebDev&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlesWebDev&theme=tokyonight" alt="GitHub Trophies" />
 </div>
+
 
 <br>
 
