@@ -37,6 +37,10 @@ const MySelf = {
   <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,mongodb,postman,docker,postgres,nodejs,express,nextjs,py,spring,supabase" alt="Backend Skills" />
 </div>
 
+<br />
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31pz7ooans5rerj5gjnjxtjgchdi)
+
 ### 🎨 Frontend Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite" alt="Frontend Skills" />
