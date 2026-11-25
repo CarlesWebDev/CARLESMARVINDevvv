@@ -40,6 +40,8 @@ const MySelf = {
   <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,py,nextjs" alt="Backend Skills" />
 </div>
 
+<img src="https://cdn.simpleicons.org/hono/E36002" alt="Hono" height="48" />
+
 ### 🗄️ Database
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" alt="Database Skills" />
