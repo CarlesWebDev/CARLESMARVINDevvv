@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Charles%20Marvin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer%20%7C%20Tangsel%2C%20Indonesia&descSize=18&descAlignY=60" alt="Header" width="100%" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hii+%F0%9F%91%8B%2C+I'm+Charles+Marvin;Junior+Dev+from+Tangsel+Indonesia;Welcome+to+my+GitHub+profile+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hii+%F0%9F%91%8B%2C+I'm+Charles+Marvin;Junior+Dev+from+Tangsel+Indonesia;Learning+React+%26+Spring+Boot+%E2%9A%A1;Welcome+to+my+GitHub+profile+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=CarlesWebDev&label=Profile%20Views&color=40A2E3&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🚀 About Me
 
@@ -31,79 +34,127 @@ const MySelf = {
 - 📫 Reach me at: **charlesmarvin4321@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies in Web**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring,nextjs,flutter" alt="Currently Learning" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🧠 Tech Stack
 
-### ⚙️ Backend
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,py,nextjs" alt="Backend Skills" />
+  <img src="https://cdn.simpleicons.org/hono/E36002" alt="Hono" height="48" />
 </div>
+</details>
 
-<img src="https://cdn.simpleicons.org/hono/E36002" alt="Hono" height="48" />
-
-### 🗄️ Database
+<details>
+<summary><b>🗄️ Database</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" alt="Database Skills" />
 </div>
+</details>
 
-### 🎨 Frontend
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap" alt="Frontend Skills" />
-  <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="48" style="border-radius:12px; background-color: #1e1e2f;" alt="Livewire" />
+  <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="48" alt="Livewire" />
 </div>
+</details>
 
-### 🧩 UI Libraries
+<details>
+<summary><b>🧩 UI Libraries</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" height="48" />
   <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" alt="Shadcn UI" height="48" />
   <img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" height="48" />
   <img src="https://cdn.simpleicons.org/daisyui/000000/ffffff" alt="DaisyUI" height="48" />
 </div>
+</details>
 
-### 📱 Mobile
+<details>
+<summary><b>📱 Mobile</b></summary>
+<br />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,dart" alt="Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=react,dart,flutter" alt="Mobile Skills" />
 </div>
+</details>
 
-### 🛠️ Tools & DevOps
+<details>
+<summary><b>🛠️ Tools & DevOps</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,npm,vscode,idea" alt="Tools" />
 </div>
+</details>
 
-### ☁️ Hosting
+<details>
+<summary><b>☁️ Hosting</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Hosting" />
 </div>
+</details>
 
-### 🧰 Terminal & Shell
+<details>
+<summary><b>🧰 Terminal & Shell</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash,powershell,neovim" alt="Shell Tools" />
 </div>
+</details>
 
-### 💻 Operating Systems
+<details>
+<summary><b>💻 Operating Systems</b></summary>
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,mint,arch,ubuntu" alt="OS" />
   <img src="https://cdn.simpleicons.org/garudalinux" alt="Garuda Linux" height="48" />
 </div>
+</details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## ⌨️ My Dev Setup
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,windows,linux,powershell" alt="Dev Setup" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/carlsmrvn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/carlsmrvn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:charlesmarvin4321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://corelevdigital.web.id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=chrome" height="48" alt="Website" />
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
@@ -114,16 +165,21 @@ const MySelf = {
   <img src="https://streak-stats.demolab.com?user=CarlesWebDev&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=CarlesWebDev&theme=radical&hide_border=true&layout=horizontal_list" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlesWebDev&layout=compact&theme=radical&hide_border=true&langs_count=100" alt="Top Languages" />
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlesWebDev&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%" />
+</div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlesWebDev&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=CarlesWebDev&theme=tokyonight" alt="GitHub Trophies" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🎧 Activity
 
@@ -145,4 +201,13 @@ const MySelf = {
 <br />
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%;" />
-</document_content>
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%99%8C;Let's+build+something+cool+together+%F0%9F%9A%80" alt="Thanks" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%" />
+</div>
