@@ -160,7 +160,7 @@ const MySelf = {
 
 <p align="center">
   <a href="https://github.com/CarlesWebDev?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CarlesWebDev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CarlesWebDev&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com?user=CarlesWebDev&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" />
 </p>
@@ -180,6 +180,16 @@ const MySelf = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🏙️ My Contribution City
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+
 
 ## 🎧 Activity
 
